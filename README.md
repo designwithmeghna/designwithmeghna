@@ -9,12 +9,20 @@ t with me on <!-- HEADER -->
 ---
 
 ### 👩‍💻 About Me
-I’m a passionate **Product Designer** with 6+ years of experience crafting user-centric digital experiences. From designing design systems and mobile apps to running workshops and community events — I love bringing clarity to complexity through design. Currently based in **Toronto, Canada**, actively looking for exciting UX/UI/Product Design opportunities.
+I’m a Product Designer with 6+ years of experience simplifying complex workflows across enterprise and community platforms. I specialize in turning messy, friction-heavy systems into intuitive, scalable experiences — grounded in systems thinking, research, and clean UI.
 
-- 💬 Tools: **Figma**, **Adobe XD**, **Sketch**, and **Systems Thinking**
-- ✍️ I share design knowledge on [Instagram @desk4doodle](https://instagram.com/desk4doodle)
-- 📝 Regularly writing articles and sharing design insights
-- 📫 Reach me at:  Linkedin <a href="https://www.linkedin.com/in/meghna-836642128" target="_blank">
+My approach blends structure and creativity: I love bringing clarity to complexity, advocating for users, and designing with intention.
+
+🎯 Currently contributing to Toronto JS as a Product Designer — shaping tools and experiences to streamline onboarding and engagement for the TorontoJS community.
+
+💡 Design Roadmap — I started it as a side project to bring clarity to the overwhelming world of design resources. What began as a Notion sheet has grown into a curated platform featuring 100+ trusted tools, design systems, portfolio builders, job boards, and inspiration links.
+
+🌱 I believe great design balances empathy with intention — and I bring that mindset into every product, system, and interaction I design.
+
+👀 Actively looking for UX/Product Design roles in Canada (Toronto or Remote).
+
+💬 Let’s connect — whether you’re hiring, building, or just want to talk about design systems, side projects, or simplifying complexity.
+
 
 ---
 
