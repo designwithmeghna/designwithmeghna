@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meghna</h1>
-<h3 align="center">UX/UI/Graphic Designer</h3>
+<h3 align="center">Product Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=designwithmeghna&label=Profile%20views&color=0e75b6&style=flat" alt="designwithmeghna" /> </p>
 
