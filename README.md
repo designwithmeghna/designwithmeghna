@@ -37,11 +37,9 @@ I’m a passionate **Product Designer** with 6+ years of experience crafting use
 ### 🛠️ Tools I Use
 
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/></a>
-  <a href="https://www.sketch.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="Sketch" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/></a>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32"/></a> <a href="https://www.framer.com/" target="_blank"><img src="https://seeklogo.com/images/F/framer-logo-62A09EB0C6-seeklogo.com.png" alt="Framer" width="32"/></a> <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="32"/></a> <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="32"/></a> <a href="https://procreate.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Procreate_Icon.png" alt="Procreate" width="32"/></a> <a href="https://www.axure.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Axure_logo_2017.svg/1200px-Axure_logo_2017.svg.png" alt="Axure RP" width="32"/></a> </p>
+<p align="left"> <a href="https://www.anthropic.com/index/claude" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" alt="Claude AI" width="32"/></a> </p>
+<p align="left"> <a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="32"/></a> <a href="https://miro.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Miro_logo.svg/512px-Miro_logo.svg.png" alt="Miro" width="32"/></a> </p>
 </p>
 
 ---
