@@ -1,4 +1,4 @@
-<!-- HEADER -->
+t with me on <!-- HEADER -->
 <h1 align="center">👋 Hi there, I'm Meghna</h1>
 <h3 align="center">🎨 Product Designer | UX/UI Specialist | Design Mentor</h3>
 
@@ -11,10 +11,10 @@
 ### 👩‍💻 About Me
 I’m a passionate **Product Designer** with 6+ years of experience crafting user-centric digital experiences. From designing design systems and mobile apps to running workshops and community events — I love bringing clarity to complexity through design. Currently based in **Toronto, Canada**, actively looking for exciting UX/UI/Product Design opportunities.
 
-- 💬 I speak **Figma**, **Adobe XD**, **Sketch**, and **Systems Thinking**
+- 💬 Tools: **Figma**, **Adobe XD**, **Sketch**, and **Systems Thinking**
 - ✍️ I share design knowledge on [Instagram @desk4doodle](https://instagram.com/desk4doodle)
 - 📝 Regularly writing articles and sharing design insights
-- 📫 Reach me at: **designwithmeghna@gmail.com**
+- 📫 Reach me at:  Linkedin <a href="https://www.linkedin.com/in/meghna-836642128" target="_blank">
 
 ---
 
