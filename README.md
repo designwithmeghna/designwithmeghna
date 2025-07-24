@@ -28,8 +28,6 @@ My approach blends **structure and creativity**: I love bringing clarity to comp
 **🎨 Strategic Product Designer crafting meaningful digital experiences**  
 *6+ years designing for global enterprises • B2B • Telecom • Fintech*  
 
-[📁 View My Portfolio →](https://meghnaaggarwal.framer.website)
-
 ---
 
 ### 🤝 Connect with Me
