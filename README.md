@@ -15,7 +15,8 @@ I’m a **Product Designer with 6+ years of experience** simplifying complex wor
 My approach blends **structure and creativity**: I love bringing clarity to complexity, advocating for users, and designing with intention.
 
 - 🎯 Contributing at **Toronto JS** — building smoother onboarding & engagement flows for the dev/design community.
-- 💡 **Design Roadmap** — my side project to bring order to the chaos of UX learning. It started as a Notion sheet and has grown into a curated toolkit of 100+ trusted design resources.
+- 💡 **Design Roadmap** — my side project to bring order to the chaos of UX learning. It started as a Notion sheet and has grown into a curated toolkit of 100+ trusted design resources. <a href="https://designroadmap.framer.website/" target="_blank">
+  </a>
 - 🌱 I believe great design balances **empathy with intention** — and I bring that mindset into every product, system, and interaction I create.
 
 👀 **Actively seeking UX/Product Design roles** in Canada (Toronto or Remote).  
