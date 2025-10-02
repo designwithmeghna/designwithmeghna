@@ -1,85 +1,54 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hi, I’m Meghna</h1>
-<h3 align="center">Strategic Product Designer crafting meaningful digital experiences</h3>
-
+<h1 align="center">Hi 👋, I'm Meghna Aggarwal</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=designwithmeghna&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
+<img src="./assets/hero.gif" width="50%" height="300px" />
 </p>
 
----
+<h4>
 
-### 💡 About Me
+I’m a Product Designer with 6 years of experience simplifying complex workflows across Enterprise, B2B, SaaS and community platforms. I specialize in turning messy, friction-heavy systems into intuitive, scalable experiences — grounded in systems thinking, research, and clean UI. 
 
-I’m a **Product Designer with 6+ years of experience** simplifying complex workflows across enterprise and community platforms. I specialize in turning messy, friction-heavy systems into **intuitive, scalable experiences** — grounded in **systems thinking, research, and clean UI**.
+My approach blends structure and creativity: I love bringing clarity to complexity, advocating for users, and designing with intention.
 
-My approach blends **structure and creativity**: I love bringing clarity to complexity, advocating for users, and designing with intention.
+🎯 Currently Volunteering @Toronto JS Community as a Product Designer — shaping tools and experiences to streamline onboarding and engagement for the community.
 
-- 🎯 Contributing at **Toronto JS** — building smoother onboarding & engagement flows for the dev/design community.
-- 💡 **Design Roadmap** — my side project to bring order to the chaos of UX learning. It started as a Notion sheet and has grown into a curated toolkit of 100+ trusted design resources. <a href="https://designroadmap.framer.website/" target="_blank">
-  </a>
-- 🌱 I believe great design balances **empathy with intention** — and I bring that mindset into every product, system, and interaction I create.
+💡 Design Roadmap — I started it as a side project to bring clarity to the overwhelming world of design resources. What began as a simple Notion Sheet has grown into a curated platform featuring 100+ trusted tools, design systems, portfolio builders, job boards, and inspiration links.
 
-👀 **Actively seeking UX/Product Design roles** in Canada (Toronto or Remote).  
-💬 Let’s connect — whether you’re hiring, building, or want to geek out on design systems or simplifying complex experiences.
+🎨 @desk4doodle — My personal art project where I share digital illustrations, affirmations, and creative experiments that bring joy and reflection. 
 
----
+🌱 I believe great design balances empathy with intention — and I bring that mindset into every product, system, and interaction I design.
 
-### 🔗 Portfolio Snapshot
+👀 Actively looking for UX/Product Design roles in Canada (Toronto/Remote).
 
-**🎨 Strategic Product Designer crafting meaningful digital experiences**  
-*6+ years designing for global enterprises • B2B • Telecom • Fintech*  
+👋 Let’s connect — whether you’re hiring, building, or just want geek out on design systems, side projects, or simplifying complexity.
 
----
 
-### 🤝 Connect with Me
+</h4>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/meghna-836642128" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/desk4doodle" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/meghnaaggarwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-</p>
+<h3>Connect with me 🤝 </h3>
+<a href="https://www.linkedin.com/in/meghna-836642128/" target="_blank">
+<img align="center" src="https://img.shields.io/badge/Linkedin-%23323330.svg?style=for-the-badge&logo=linkedin" alt="developwithlalit"  width="100" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/meghna-836642128" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 
-### 🧰 Tools I Use
+<a href="https://instagram.com/desk4doodle" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+  
+<a href="https://www.behance.net/meghnaaggarwal" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+</a>
 
-#### 🎨 Design & Prototyping
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="32"/></a>
-  <a href="https://www.framer.com/" target="_blank"><img src="https://seeklogo.com/images/F/framer-logo-62A09EB0C6-seeklogo.com.png" alt="Framer" width="32"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="32"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="32"/></a>
-  <a href="https://procreate.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Procreate_Icon.png" alt="Procreate" width="32"/></a>
-  <a href="https://www.axure.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Axure_logo_2017.svg/1200px-Axure_logo_2017.svg.png" alt="Axure RP" width="32"/></a>
-</p>
+<h3 align="left"> Skills and Tools 🛠️ </h3>
 
-#### 🤖 AI & Research
-<p align="left">
-  <a href="https://www.anthropic.com/index/claude" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Anthropic_logo.svg/512px-Anthropic_logo.svg.png" alt="Claude AI" width="32"/></a>
-</p>
+- <span style="font-size:1.2em">Core Design Skills : </span>
+  ![Design Systems](https://img.shields.io/badge/Design Systems-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Go Lang](https://img.shields.io/badge/GOlang-%25234285F4.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+- <span style="font-size:1.2em">Frameworks and technologies : </span> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+- <span style="font-size:1.2em">UI Technologies : </span> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+- <span style="font-size:1.2em">Databases : </span> ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Aerospike](https://img.shields.io/badge/Aerospike-%25234285F4.svg?style=for-the-badge&logo=aerospike&logoColor=white) 
+- <span style="font-size:1.2em">Tools : </span> ![Github](https://img.shields.io/badge/git-121013?style=for-the-badge&logo=github&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-%25234285F4.svg?style=for-the-badge&logo=apache-kafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 
-#### 🔗 Collaboration & Thinking
-<p align="left">
-  <a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion" width="32"/></a>
-  <a href="https://miro.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Miro_logo.svg/512px-Miro_logo.svg.png" alt="Miro" width="32"/></a>
-</p>
 
----
 
-### 🏆 Achievements & GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=designwithmeghna&theme=flat&column=3&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=designwithmeghna&layout=compact&theme=default" alt="Top Languages" />
-</p>
