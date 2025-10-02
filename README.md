@@ -26,12 +26,9 @@ My approach blends structure and creativity: I love bringing clarity to complexi
 
 <h3> 👋 Let’s connect — whether you’re hiring, building, or just want geek out on design systems, side projects, or simplifying complexity. </h3>
 <a href="https://www.linkedin.com/in/meghna-836642128/" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Linkedin-%23323330.svg?style=for-the-badge&logo=linkedin" alt="developwithlalit"  width="100" />
+<img align="center" src="https://img.shields.io/badge/Linkedin-%23323330.svg?style=for-the-badge&logo=linkedin" alt="meghna"  width="100" />
 </a>
 
-<a href="https://www.linkedin.com/in/meghna-836642128" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
 <a href="https://instagram.com/desk4doodle" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
