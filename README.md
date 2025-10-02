@@ -19,12 +19,12 @@ My approach blends structure and creativity: I love bringing clarity to complexi
 
 👀 Actively looking for UX/Product Design roles in Canada (Toronto/Remote).
 
-👋 Let’s connect — whether you’re hiring, building, or just want geek out on design systems, side projects, or simplifying complexity.
+
 
 
 </h4>
 
-<h3>Connect with me 🤝 </h3>
+<h3> 👋 Let’s connect — whether you’re hiring, building, or just want geek out on design systems, side projects, or simplifying complexity. </h3>
 <a href="https://www.linkedin.com/in/meghna-836642128/" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Linkedin-%23323330.svg?style=for-the-badge&logo=linkedin" alt="developwithlalit"  width="100" />
 </a>
@@ -38,7 +38,7 @@ My approach blends structure and creativity: I love bringing clarity to complexi
 </a>
   
 <a href="https://www.behance.net/meghnaaggarwal" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
+<img align="center" src="https://img.shields.io/badge/behance" alt="meghna" width="100" />
 </a>
 
 <h3 align="left"> Skills and Tools 🛠️ </h3>
